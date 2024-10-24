@@ -1,4 +1,4 @@
-# 🛠️✨ My Low-Level Design ✨🛠️
+# 🛠️✨ Low-Level Design ✨🛠️
 
 Welcome to my cozy **Low-Level Design** corner! 🌟 Here, you’ll find a collection of exercises, solutions, and ideas to design efficient and functional systems! 💡
 
