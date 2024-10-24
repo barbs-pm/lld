@@ -1,56 +1,56 @@
-# 🛠️✨ Low-Level Design ✨🛠️
+# 🛠️✨ My Low-Level Design ✨🛠️
 
-Bem-vindo ao meu cantinho de **Low-Level Design**! 🌟 Aqui, você vai encontrar uma coleção de exercícios, soluções e ideias para criar arquiteturas eficientes e funcionais! 💡
-
----
-
-## 🎯 O que você vai encontrar aqui?
-
-✨ **Design Patterns**: Exemplos práticos de padrões de design populares, como Singleton, Factory, Observer, e muito mais! 🏗️
-
-✨ **Arquitetura de Sistemas**: Decomposição de problemas e criação de sistemas modulares para lidar com casos reais. 🧩
-
-✨ **Modelagem de Classes**: Diagramas de classes, hierarquias e boas práticas de design OO. 🖥️💼
-
-✨ **Design de APIs**: Como criar e estruturar APIs RESTful com amor e eficiência. 📡💖
-
-✨ **Princípios de Clean Code**: Códigos bonitinhos, limpos e fáceis de entender. 🌱
+Welcome to my cozy **Low-Level Design** corner! 🌟 Here, you’ll find a collection of exercises, solutions, and ideas to design efficient and functional systems! 💡
 
 ---
 
-## 🧠 Por que praticar LLD?
+## 🎯 What will you find here?
 
-Aprender Low-Level Design é como montar o seu próprio quebra-cabeça! 🧩 Você vai:
-- Criar soluções elegantes para problemas complexos.
-- Garantir que seus sistemas sejam escaláveis e fáceis de manter.
-- Praticar princípios que tornam seu código mais limpo e eficiente! 🚀
+✨ **Design Patterns**: Practical examples of popular design patterns, like Singleton, Factory, Observer, and more! 🏗️
 
----
+✨ **System Architecture**: Breaking down problems and designing modular systems for real-world scenarios. 🧩
 
-## 💡 Como contribuir?
+✨ **Class Modeling**: Class diagrams, hierarchies, and best practices for object-oriented design. 🖥️💼
 
-Adoraria saber o que você acha e, claro, sugestões são sempre bem-vindas! Se você quiser colaborar, é só seguir os passos abaixo:
+✨ **API Design**: How to create and structure RESTful APIs with love and efficiency. 📡💖
 
-1. **Fork** o repositório.
-2. Crie sua própria branch (`git checkout -b minha-sugestao`).
-3. Commit suas mudanças (`git commit -m 'Aqui vai minha contribuição 🐱'`).
-4. **Push** para a branch (`git push origin minha-sugestao`).
-5. Abra um **Pull Request** e ficarei super feliz em revisar! 🌼
+✨ **Clean Code Principles**: Writing beautiful, clean, and easy-to-understand code. 🌱
 
 ---
 
-## 🛠️ Tecnologias utilizadas:
+## 🧠 Why practice LLD?
 
-- **JavaScript**: Para toda a magia de design de sistemas ✨
-- **Git**: Para gerenciar o repositório como um(a) pro! 🔧
-- E, claro, muita **creatividade** e **dedicação**! 💖
-
----
-
-## 🚀 Vamos começar!
-
-Sinta-se à vontade para explorar, abrir issues e colaborar! Juntos, vamos aprender mais sobre o incrível mundo do Low-Level Design! ✨
+Learning Low-Level Design is like assembling your own puzzle! 🧩 You will:
+- Create elegant solutions to complex problems.
+- Ensure your systems are scalable and maintainable.
+- Practice principles that make your code cleaner and more efficient! 🚀
 
 ---
 
-Feito com 💛 por [Bárbara]!
+## 💡 How to contribute?
+
+I’d love to hear your thoughts, and suggestions are always welcome! If you’d like to contribute, just follow these steps:
+
+1. **Fork** the repository.
+2. Create your own branch (`git checkout -b my-suggestion`).
+3. Commit your changes (`git commit -m 'Here’s my contribution 🐱'`).
+4. **Push** to your branch (`git push origin my-suggestion`).
+5. Open a **Pull Request**, and I’ll be super happy to review it! 🌼
+
+---
+
+## 🛠️ Technologies used:
+
+- **JavaScript**: For all the system design magic ✨
+- **Git**: To manage the repository like a pro! 🔧
+- And of course, lots of **creativity** and **dedication**! 💖
+
+---
+
+## 🚀 Let’s get started!
+
+Feel free to explore, open issues, and contribute! Together, we’ll learn more about the wonderful world of Low-Level Design! ✨
+
+---
+
+Made with 💛 by [Bárbara].
