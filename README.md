@@ -53,4 +53,4 @@ Feel free to explore, open issues, and contribute! Together, we’ll learn more 
 
 ---
 
-Made with 💛 by [Bárbara].
+Made with 💛 by Bárbara.
