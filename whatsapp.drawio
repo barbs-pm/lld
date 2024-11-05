@@ -94,6 +94,9 @@
         <mxCell id="wXrM8oS1fU6yHg3NIPrC-39" value="redis" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="730" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wXrM8oS1fU6yHg3NIPrC-43" value="redis: last seen,&lt;div&gt;recent msgs,&lt;/div&gt;&lt;div&gt;session,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;lock&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="755" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
